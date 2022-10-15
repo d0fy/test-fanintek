@@ -1,0 +1,17 @@
+.styled__badge {
+  background-color: rgba(177, 44, 255, 0.6) !important;
+}
+
+.ability__styled {
+  color: rgba(177, 44, 255, 1) !important;
+}
+
+.styled__badges {
+  color: rgba(177, 44, 255, 1) !important;
+  font-weight: 600 !important;
+  border: 1px solid rgba(177, 44, 255, 1) !important;
+}
+
+.progress-bar {
+  background-color: rgba(177, 44, 255, 1) !important;
+}

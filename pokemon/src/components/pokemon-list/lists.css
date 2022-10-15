@@ -1,0 +1,20 @@
+.wrap__search {
+  border: 2px solid #8287af;
+  border-radius: 4.5px;
+}
+
+/* .btn__styled {
+  border: 2px solid rgba(177, 44, 255, 0.6) !important;
+  backdrop-filter: blur(100px);
+  color: rgba(177, 44, 255, 1) !important;
+}
+
+.btn__styled:hover {
+  background-color: rgba(177, 44, 255, 0.6) !important;
+  color: white !important;
+} */
+
+.search__styled {
+  outline: none;
+  border: none;
+}
